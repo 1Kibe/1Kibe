@@ -14,16 +14,6 @@
 </div>
 
 ---
-
-### 📫 Contatos
-<div align="center">
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"></a>
-</div>
-
----
-
 ### 🛠 Tecnologias e Ferramentas
 <div align="center">
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
