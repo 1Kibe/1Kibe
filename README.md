@@ -18,12 +18,10 @@
 ### 📫 Contatos
 <div align="center">
   <a href="https://instagram.com/ryan_apenas" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:ryanadrianprado2022@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"></a>
   <a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"></a>
 </div>
 
 ---
-
 ### 🛠 Tecnologias e Ferramentas
 <div align="center">
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
@@ -37,9 +35,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=red)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 </div>
-
 ---
 
 ### 🎮 Extras
