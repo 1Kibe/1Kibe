@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 </div>
-### 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/output/snake.svg" alt="Snake animation" />
 </div>
