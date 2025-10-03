@@ -1,41 +1,32 @@
 <h2 align="center">Olá 👋, me chamo Ryan Adrian</h2>
 
 ### 👨‍💻 Sobre mim
-
-- 👨🏼‍💻 &nbsp; Desenvolvedor Back End apaixonado por tecnologia e inovação
-- 👨🏼‍💻 &nbsp; CEO e Programador em projetos próprios
-- 🎓 &nbsp; Experiência com Java, Spring Boot
-- 💻 &nbsp; Trabalhando constantemente em back-end com Java, MySQL
-- ⚡ &nbsp; Interesse em DevOps, Docker e boas práticas de desenvolvimento
+- Desenvolvedor Back End apaixonado por tecnologia e inovação
+- CEO e Programador em projetos próprios
+- Experiência com Java, Spring Boot
+- Trabalhando constantemente em back-end com Java e MySQL
+- Interesse em DevOps, Docker e boas práticas de desenvolvimento
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Kibe&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Kibe&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Kibe&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Kibe&layout=compact&langs_count=6&theme=dracula" height="150" alt="Most Used Languages" />
 </div>
 
 ---
 
-### Contatos
-
-<div align="left">
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+### 📫 Contatos
+<div align="center">
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://instagram.com)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:seuemail@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/seu-perfil)
 </div>
 
 ---
 
-### Tecnologias e Ferramentas
-
-<div align="left">
+### 🛠 Tecnologias e Ferramentas
+<div align="center">
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&logoColor=brown)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -50,11 +41,9 @@
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=6DB33F)
 </div>
 
-
 ---
 
-### Extras
-
+### 🎮 Extras
 <div align="center">
   <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/output/snake.svg" alt="Snake animation" />
 </div>
@@ -63,7 +52,3 @@
   Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/1Kibe/count.svg" />
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/output/snake.svg" alt="Snake animation" />
-</div>
