@@ -1,10 +1,10 @@
 <h2 align="center">Olá 👋, me chamo Ryan Adrian</h2>
 
 ### 👨‍💻 Sobre mim
-- Desenvolvedor Back End apaixonado por tecnologia e inovação
-- Experiência com Java, Spring Boot
-- Trabalhando constantemente em back-end com Java e MySQL
-- Interesse em DevOps, Docker e boas práticas de desenvolvimento
+- Desenvolvedor Back End em busca de aprendizado constante
+- Focado em Java, Spring Boot e MySQL
+- Explorando novas habilidades e boas práticas de desenvolvimento
+- Interessado em DevOps e Cyber Segurança
 
 ---
 
