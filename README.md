@@ -6,6 +6,8 @@
 - Explorando novas habilidades e boas práticas de desenvolvimento
 - Interessado em DevOps e Cyber Segurança
 
+- Saiba mais sobre mim aqui: https://1kibe.github.io/landpage/
+
 ---
 
 <div align="center">
