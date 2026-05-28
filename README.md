@@ -1,38 +1,63 @@
-<h2 align="center">Olá 👋, me chamo Ryan Adrian</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5EFEB&height=200&section=header&text=Ryan%20Adrian&fontSize=60&fontColor=1A0800&animation=fadeIn&fontAlignY=45" width="100%"/>
+</div>
 
-### 👨‍💻 Sobre mim
-- Desenvolvedor Back End em busca de aprendizado constante
-- Focado em Java, Spring Boot e MySQL
-- Explorando novas habilidades e boas práticas de desenvolvimento
-- Interessado em DevOps e Cyber Segurança
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Relational+%26+NoSQL+Databases;DevOps+%7C+CI%2FCD+%7C+Security;Building+scalable+back-end+systems." alt="Typing SVG" />
+</p>
 
-- Saiba mais sobre mim aqui: https://1kibe.github.io/landpage/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <a href="https://1kibe.github.io/landpage/">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+### Sobre mim
+
+Desenvolvedor **Back-End** construindo APIs REST escaláveis e seguras.
+Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps e Segurança.
+
+- Trabalhando com **Spring Boot** · **JPA/Hibernate** · APIs REST
+- Estudando **Docker** · **CI/CD** · **DevSecOps**
+- Focado em Clean Architecture · SOLID · Alta performance
+- Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
+- [Portfólio](https://1kibe.github.io/landpage/)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Kibe&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Kibe&layout=compact&langs_count=6&theme=dracula" height="150" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Kibe&theme=github_dark" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1Kibe&theme=github_dark" height="165" alt="Most Used Languages" />
 </div>
 
 ---
-### 🛠 Tecnologias e Ferramentas
+
+### Tecnologias e Ferramentas
+
 <div align="center">
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&logoColor=brown"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab"/>
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=red"/>
-<img src="https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=blue"/>
-<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
 </div>
 
 ###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/output/snake.svg" alt="Snake animation" />
 </div>
