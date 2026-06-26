@@ -25,7 +25,7 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 - Estudando **Docker** · **CI/CD** · **DevSecOps**
 - Focado em Clean Architecture · SOLID · Alta performance
 - Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
-- [Portfólio](https://1kibe.github.io/landpage/)
+- [Portfólio](https://1kibe.github.io/landpage/index3.html)
 
 ---
 
