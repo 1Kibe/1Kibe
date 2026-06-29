@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Profile views"/>
   &nbsp;
-  <a href="https://1kibe.github.io/landpage/">
+  <a href="https://1kibe.github.io/landpage/index3.html">
     <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
