@@ -36,6 +36,7 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 </div>
 
 **[PyreNote](https://kibesurdo00-pyrenote.static.hf.space/index.html)** — bloco de anotações rápidas onde cada nota tem dois destinos: virar pilha ou virar cinza. A queima é uma dissolução por ruído desenhada em `<canvas>` quadro a quadro — não é GIF nem vídeo. Sem login, sem backend, sem banco: nada sai do seu navegador.
+
 ---
 
 <div align="center">
