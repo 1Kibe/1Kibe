@@ -27,6 +27,15 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 - Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
 - [Portfólio](https://1kibe.github.io/landpage/index3.html)
 
+### Projetos
+
+<div align="center">
+  <a href="https://kibesurdo00-pyrenote.static.hf.space">
+    <img src="https://img.shields.io/badge/PyreNote-Live_Demo-FF6C37?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="PyreNote — demo ao vivo"/>
+  </a>
+</div>
+
+**[PyreNote](https://kibesurdo00-pyrenote.static.hf.space/index.html)** — bloco de anotações rápidas onde cada nota tem dois destinos: virar pilha ou virar cinza. A queima é uma dissolução por ruído desenhada em `<canvas>` quadro a quadro — não é GIF nem vídeo. Sem login, sem backend, sem banco: nada sai do seu navegador.
 ---
 
 <div align="center">
