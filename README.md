@@ -10,8 +10,6 @@ Desenvolvedor back-end com Java e Spring Boot, também atuando em projetos fulls
 Gosto de entender o sistema de ponta a ponta, do banco de dados até a tela.  
 Fora do código: xadrez e Linux.
 
-Disponível para oportunidades CLT/PJ e freelas.
-
 <p align="center">
   <a href="https://1kibe.github.io/landpage/"><b>Portfólio</b></a>
   &nbsp;·&nbsp;
