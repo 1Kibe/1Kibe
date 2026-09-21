@@ -8,9 +8,14 @@
 
 ### Sobre mim
 
-Desenvolvedor fullstack — júnior.
+Desenvolvedor **Back-End** construindo APIs REST escaláveis e seguras.
+Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps e Segurança.
 
-[Mais sobre mim aqui.](https://1kibe.github.io/landpage/)
+- Trabalhando com **Spring Boot** · **JPA/Hibernate** · APIs REST
+- Estudando **Docker** · **CI/CD** · **DevSecOps**
+- Focado em Clean Architecture · SOLID · Alta performance
+- Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
+- [Portfólio](https://1kibe.github.io/landpage/)
 
 ---
 
