@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=706860&height=200&section=header&text=Ryan%20Adrian&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <a href="https://1kibe.github.io/landpage/">
+    <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/main/assets/ascii-demo.gif" width="100%" alt="Fundo em ASCII dither do portfólio de Ryan Adrian"/>
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Relational+%26+NoSQL+Databases;DevOps+%7C+CI%2FCD+%7C+Security;Building+scalable+back-end+systems." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Profile views"/>
-  &nbsp;
   <a href="https://1kibe.github.io/landpage/">
-    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/VER%20PORTFÓLIO-1kibe.github.io-706860?style=for-the-badge&logo=firefox-browser&logoColor=white" height="34" alt="Ver portfólio"/>
   </a>
 </p>
 
@@ -26,32 +22,6 @@ Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps
 - Focado em Clean Architecture · SOLID · Alta performance
 - Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
 - [Portfólio](https://1kibe.github.io/landpage/)
-
-### Portfólio
-
-<div align="center">
-  <a href="https://1kibe.github.io/landpage/">
-    <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/main/assets/ascii-demo.gif" width="100%" alt="Fundo em ASCII dither do portfólio"/>
-  </a>
-</div>
-
-O fundo do [portfólio](https://1kibe.github.io/landpage/) é uma imagem redesenhada em `<canvas>` quadro a quadro: cada célula do grid vira um caractere de `" .:-=+*#%@"` por dithering Floyd–Steinberg, e o grid se refaz conforme o formato da tela. A animação acima nasceu da mesma imagem, com o mesmo charset e o mesmo dithering.
-
-<div align="center">
-  <a href="https://1kibe.github.io/landpage/trabalhos.html">
-    <img src="https://img.shields.io/badge/Trabalhos-555555?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Trabalhos realizados"/>
-  </a>
-  <a href="https://appchessclub.com.br">
-    <img src="https://img.shields.io/badge/Chess_Club-Em_produção-4B8BBE?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess Club — em produção"/>
-  </a>
-  <a href="https://kibesurdo00-pyrenote.static.hf.space">
-    <img src="https://img.shields.io/badge/PyreNote-Live_Demo-FF6C37?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="PyreNote — demo ao vivo"/>
-  </a>
-</div>
-
-**[Chess Club](https://appchessclub.com.br)** — plataforma que centraliza o dia a dia de um clube de xadrez: cada clube com seu próprio espaço, canais de comunicação interna, gestão de torneios e partidas, integração com Chess.com e Lichess, e mensalidade recorrente com split de repasse via Asaas. NestJS, Next.js 15, PostgreSQL, Redis e Docker.
-
-**[PyreNote](https://kibesurdo00-pyrenote.static.hf.space/index.html)** — bloco de anotações rápidas onde cada nota tem dois destinos: virar pilha ou virar cinza. A queima é uma dissolução por ruído desenhada em `<canvas>` quadro a quadro — não é GIF nem vídeo. Sem login, sem backend, sem banco: nada sai do seu navegador.
 
 ---
 
