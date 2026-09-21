@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://1kibe.github.io/landpage/">
-    <img src="https://img.shields.io/badge/VER%20PORTFÓLIO-1kibe.github.io-706860?style=for-the-badge&logo=firefox-browser&logoColor=white" height="34" alt="Ver portfólio"/>
+    <img src="https://img.shields.io/badge/Ver_portfólio-706860?style=flat-square&logo=firefox-browser&logoColor=white" alt="Ver portfólio"/>
   </a>
 </p>
 
