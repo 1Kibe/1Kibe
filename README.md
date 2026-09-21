@@ -4,12 +4,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Visualizações do perfil"/>
-</p>
-
-<br/>
-
 ### Sobre mim
 
 Desenvolvedor back-end com Java e Spring Boot, também atuando em projetos fullstack.  
@@ -18,7 +12,11 @@ Fora do código: xadrez e Linux.
 
 Disponível para oportunidades CLT/PJ e freelas.
 
-[Portfólio](https://1kibe.github.io/landpage/)
+<p align="center">
+  <a href="https://1kibe.github.io/landpage/"><b>Portfólio</b></a>
+  &nbsp;·&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Visualizações do perfil"/>
+</p>
 
 ---
 
