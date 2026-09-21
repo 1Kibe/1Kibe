@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://1kibe.github.io/landpage/">
-    <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/main/assets/ascii-demo.gif" width="100%" alt="Fundo em ASCII dither do portfólio de Ryan Adrian"/>
+    <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/main/assets/ascii-banner.gif" width="880" alt="Fundo em ASCII dither do portfólio de Ryan Adrian"/>
   </a>
 </div>
 
