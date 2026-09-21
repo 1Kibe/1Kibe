@@ -12,14 +12,13 @@
 
 ### Sobre mim
 
-Desenvolvedor **Back-End** construindo APIs REST escaláveis e seguras.
-Stack principal em **Java** e **Spring Boot**, com interesse crescente em DevOps e Segurança.
+Desenvolvedor back-end com Java e Spring Boot, também atuando em projetos fullstack.  
+Gosto de entender o sistema de ponta a ponta, do banco de dados até a tela.  
+Fora do código: xadrez e Linux.
 
-- Trabalhando com **Spring Boot** · **JPA/Hibernate** · APIs REST
-- Estudando **Docker** · **CI/CD** · **DevSecOps**
-- Focado em Clean Architecture · SOLID · Alta performance
-- Me pergunte sobre Java · Spring Boot · Design de Banco de Dados
-- [Portfólio](https://1kibe.github.io/landpage/)
+Disponível para oportunidades CLT/PJ e freelas.
+
+[Portfólio](https://1kibe.github.io/landpage/)
 
 ---
 
