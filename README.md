@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1Kibe&label=Profile+Views&color=555555&style=flat-square" alt="Visualizações do perfil"/>
+</p>
+
 <br/>
 
 ### Sobre mim
