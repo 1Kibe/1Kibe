@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=1Kibe&amp;theme=github-dark&amp;style=terminal" width="880" alt="Ryan Adrian em ASCII" />
+</p>
+
 ### Sobre mim
 
 Desenvolvedor back-end com Java e Spring Boot, também atuando em projetos fullstack.  
@@ -27,23 +31,9 @@ Fora do código: xadrez e Linux.
 
 ### Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs%2Cpy%2Cdocker%2Cgit%2Cangular%2Chtml%2Ccss%2Cmysql%2Cnextjs%2Creact%2Cmongodb%2Cpostgres%2Cjava%2Cts%2Cnestjs%2Ctailwind%2Cprisma%2Clinux%2Cvscode%2Cfigma%2Cubuntu%2Cgithub%2Csupabase%2Cfirebase&amp;theme=dark&amp;perline=8" alt="Tecnologias" />
+</p>
 
 ###
 
