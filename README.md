@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=1Kibe&amp;theme=github-dark&amp;style=terminal" width="880" alt="Ryan Adrian em ASCII" />
+  <img src="https://raw.githubusercontent.com/1Kibe/1Kibe/main/assets/wordmark.svg" width="880" alt="Ryan Adrian em ASCII" />
 </p>
 
 ### Sobre mim
